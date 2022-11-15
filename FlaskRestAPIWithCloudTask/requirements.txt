@@ -1,0 +1,4 @@
+Flask
+Flask-RESTful
+gunicorn==20.1.0
+google-cloud-tasks==2.10.4
